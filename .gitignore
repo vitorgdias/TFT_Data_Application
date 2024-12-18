@@ -8,3 +8,7 @@ log
 
 # Secrets
 .env
+tft-automator-6d1c16559072.json
+
+# .Exe
+*.exe
